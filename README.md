@@ -15,7 +15,7 @@ This project aims to analyze and detect ransomware activities by identifying beh
 
 ## Technologies Used
 - **Programming Language:** Python
-- **Libraries:** NumPy, pandas, scikit-learn, TensorFlow
+- **Libraries:** NumPy, pandas, scikit-learn, PyTorch
 - **Visualization:** Matplotlib, Seaborn
 - **Data Processing:** Log parsing and feature engineering
 
