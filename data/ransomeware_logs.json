@@ -1,0 +1,52 @@
+[
+  {
+    "timestamp": "2024-12-01 10:00:00",
+    "operation": "open",
+    "file_name": "file1.txt",
+    "details": {
+      "user": "user1",
+      "process": "explorer.exe",
+      "access_type": "read-only"
+    }
+  },
+  {
+    "timestamp": "2024-12-01 10:05:00",
+    "operation": "write",
+    "file_name": "file1.txt",
+    "details": {
+      "user": "user1",
+      "process": "notepad.exe",
+      "access_type": "write"
+    }
+  },
+  {
+    "timestamp": "2024-12-01 10:10:00",
+    "operation": "rename",
+    "file_name": "file1.txt",
+    "details": {
+      "user": "user1",
+      "process": "cmd.exe",
+      "access_type": "admin"
+    }
+  },
+  {
+    "timestamp": "2024-12-01 10:15:00",
+    "operation": "delete",
+    "file_name": "file1.txt",
+    "details": {
+      "user": "user1",
+      "process": "cmd.exe",
+      "access_type": "admin"
+    }
+  },
+  {
+    "timestamp": "2024-12-01 10:30:00",
+    "operation": "encrypt",
+    "file_name": "file2.txt",
+    "details": {
+      "user": "user1",
+      "process": "ransomware.exe",
+      "access_type": "admin"
+    }
+  }
+]
