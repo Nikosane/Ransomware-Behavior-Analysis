@@ -1,0 +1,8 @@
+timestamp,operation,file_name,label
+2024-12-01 10:00:00,open,file1.txt,0
+2024-12-01 10:05:00,write,file1.txt,0
+2024-12-01 10:10:00,rename,file1.txt,1
+2024-12-01 10:15:00,delete,file1.txt,1
+2024-12-01 10:20:00,open,file2.txt,0
+2024-12-01 10:25:00,write,file2.txt,0
+2024-12-01 10:30:00,encrypt,file2.txt,1
